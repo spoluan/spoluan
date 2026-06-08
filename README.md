@@ -144,7 +144,9 @@
 
 ## ▎ GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spoluan&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&count_private=true)](https://github.com/spoluan)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=spoluan&theme=github_dark)](https://github.com/spoluan)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spoluan&theme=github_dark)](https://github.com/spoluan)
+[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spoluan&theme=github_dark)](https://github.com/spoluan)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spoluan&theme=dark)](https://github.com/spoluan)
 
