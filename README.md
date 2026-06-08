@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sevendi%20Eldrige%20Rifki%20Poluan&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Enthusiast%20%26%20Developer%20🇹🇼&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sevendi%20Eldrige%20Rifki%20Poluan&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Enthusiast%20%26%20Developer&descAlignY=58&descSize=18)
 
 <div align="center">
 
