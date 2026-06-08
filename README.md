@@ -1,8 +1,27 @@
-# 👋 Sevendi Eldrige Rifki Poluan
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sevendi%20Eldrige%20Rifki%20Poluan&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Enthusiast%20%26%20Developer%20🇹🇼&descAlignY=58&descSize=18)
 
-**AI/ML Enthusiast & Developer** 🇹🇼
+<div align="center">
 
-> Building intelligent systems through code & data
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+through+code+%26+data;Researcher+%E2%80%A2+Engineer+%E2%80%A2+Builder)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🎯 My Interests
+
+<div align="center">
+
+![AI/ML](https://img.shields.io/badge/🤖_AI%2FML-FF6F00?style=for-the-badge&logoColor=white)
+![Generative AI](https://img.shields.io/badge/🧬_Generative_AI-E91E63?style=for-the-badge&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/👁️_Computer_Vision-5C3EE8?style=for-the-badge&logoColor=white)
+![NLP](https://img.shields.io/badge/💬_NLP-0078D4?style=for-the-badge&logoColor=white)
+![IoT & Robotics](https://img.shields.io/badge/📡_IoT_%26_Robotics-660066?style=for-the-badge&logoColor=white)
+![FinTech](https://img.shields.io/badge/💰_FinTech-00897B?style=for-the-badge&logoColor=white)
+![Real-time Systems](https://img.shields.io/badge/⚡_Real--time_Systems-F7931E?style=for-the-badge&logoColor=white)
+![Software Engineering](https://img.shields.io/badge/🧑‍💻_Software_Engineering-239120?style=for-the-badge&logoColor=white)
+
+</div>
 
 ---
 
@@ -10,7 +29,7 @@
 
 <div align="center">
 
-### 🐍 Languages & Runtimes
+### 🐍 Languages & Platforms
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -19,6 +38,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![MQL5](https://img.shields.io/badge/-MQL5-00897B?style=flat-square&logoColor=white)
 
 ### 🤖 AI/ML & Deep Learning
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -120,12 +140,6 @@
 
 ---
 
-## 🎯 My Interests
-
-🤖 **AI/ML** • 👁️ **Computer Vision** • 💬 **NLP** • 📡 **IoT & Robotics** • 💰 **FinTech** • ⚡ **Real-time Systems** • 🧑‍💻 **Software Engineering**
-
----
-
 <div align="center">
 
 ## 📊 GitHub Stats
@@ -133,6 +147,10 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spoluan&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/spoluan)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spoluan&theme=dark)](https://github.com/spoluan)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=spoluan&theme=github-compact)
+
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spoluan&theme=github_dark)](https://github.com/spoluan)
 
 </div>
 
