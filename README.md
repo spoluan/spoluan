@@ -1,5 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=200&section=header&text=Sevendi%20Eldrige%20Rifki%20Poluan&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
-
+![Header](https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:16213e&height=150&section=header&text=Sevendi%20Eldrige%20Rifki%20Poluan&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%26+Developer;Building+intelligent+systems+through+code+%26+data;Researcher+%E2%80%A2+Engineer+%E2%80%A2+Builder)](https://git.io/typing-svg)
