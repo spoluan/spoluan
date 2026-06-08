@@ -1,14 +1,14 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sevendi%20Eldrige%20Rifki%20Poluan&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Enthusiast%20%26%20Developer&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=200&section=header&text=Sevendi%20Eldrige%20Rifki%20Poluan&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+through+code+%26+data;Researcher+%E2%80%A2+Engineer+%E2%80%A2+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast+%26+Developer;Building+intelligent+systems+through+code+%26+data;Researcher+%E2%80%A2+Engineer+%E2%80%A2+Builder)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🎯 My Interests
+## ▎ My Interests
 
 <div align="center">
 
@@ -25,11 +25,11 @@
 
 ---
 
-## 🔬 Tech Stack
+## ▎ Tech Stack
 
 <div align="center">
 
-### 🐍 Languages & Platforms
+### Languages & Platforms
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -40,30 +40,30 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![MQL5](https://img.shields.io/badge/-MQL5-00897B?style=flat-square&logoColor=white)
 
-### 🤖 AI/ML & Deep Learning
+### AI/ML & Deep Learning
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Transformers](https://img.shields.io/badge/-Transformers-FDB500?style=flat-square&logoColor=black)
 
-### 📊 Data Science & Analysis
+### Data Science & Analysis
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-1F77B4?style=flat-square&logoColor=white)
 
-### 👁️ Computer Vision
+### Computer Vision
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Pillow](https://img.shields.io/badge/-Pillow-CCCCCC?style=flat-square&logoColor=black)
 
-### 💬 NLP & Language Models
+### NLP & Language Models
 ![NLTK](https://img.shields.io/badge/-NLTK-0078D4?style=flat-square&logoColor=white)
 ![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat-square&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-2B2B2B?style=flat-square&logoColor=white)
 
-### 🌐 Web Frameworks & APIs
+### Web Frameworks & APIs
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -71,18 +71,18 @@
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-### 💾 Databases & Storage
+### Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### 🛠️ DevOps & Tools
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-### 📡 IoT & Real-time
+### IoT & Real-time
 ![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![OpenDNP3](https://img.shields.io/badge/-OpenDNP3-4C6EF5?style=flat-square&logoColor=white)
@@ -92,7 +92,7 @@
 
 ---
 
-## 📚 Publications
+## ▎ Publications
 
 1. **[Cross-Modal Matching of Lower Body Skeleton and Insole Pressure for Identity Recognition](https://doi.org/10.1109/LSENS.2026.3658024)**  
    IEEE Sensors Letters (March 2026)
@@ -108,7 +108,7 @@
 
 ---
 
-##  📚 Machine Learning Lab
+## ▎ Machine Learning Lab
 
 👉 **[Browse Projects](https://github.com/stars/spoluan/lists/personal-machine-learning-lab)**
 
@@ -142,7 +142,7 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+## ▎ GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spoluan&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/spoluan)
 
@@ -156,7 +156,7 @@
 
 ---
 
-## 🔗 Connect
+## ▎ Connect
 
 - **ORCID:** [0000-0002-1047-554X](https://orcid.org/0000-0002-1047-554X)
 - **GitHub:** [@spoluan](https://github.com/spoluan)
