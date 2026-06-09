@@ -113,29 +113,29 @@
 
 | Project | Stars | Type |
 |---------|-------|------|
-| [forex-market-prediction-eurusd](https://github.com/spoluan/forex-market-prediction-eurusd) | ![Stars](https://img.shields.io/github/stars/spoluan/forex-market-prediction-eurusd?style=social) | Time Series |
-| [federated-learning-mnistdigit](https://github.com/spoluan/federated-learning-mnistdigit) | ![Stars](https://img.shields.io/github/stars/spoluan/federated-learning-mnistdigit?style=social) | Privacy-Preserving ML |
-| [explainable-ai-pneumonia](https://github.com/spoluan/explainable-ai-pneumonia) | ![Stars](https://img.shields.io/github/stars/spoluan/explainable-ai-pneumonia?style=social) | Medical Imaging |
-| [reinforcement-learning](https://github.com/spoluan/reinforcement-learning) | ![Stars](https://img.shields.io/github/stars/spoluan/reinforcement-learning?style=social) | RL Algorithms |
-| [golf-ball-detection](https://github.com/spoluan/golf-ball-detection) | ![Stars](https://img.shields.io/github/stars/spoluan/golf-ball-detection?style=social) | Object Detection |
-| [sound-classification-ml](https://github.com/spoluan/sound-classification-ml) | ![Stars](https://img.shields.io/github/stars/spoluan/sound-classification-ml?style=social) | Audio Classification |
-| [scut-head-object-detection](https://github.com/spoluan/scut-head-object-detection) | ![Stars](https://img.shields.io/github/stars/spoluan/scut-head-object-detection?style=social) | Head Detection |
-| [experiment-chatbot](https://github.com/spoluan/experiment-chatbot) | ![Stars](https://img.shields.io/github/stars/spoluan/experiment-chatbot?style=social) | NLP/LLM |
-| [sentiment-analysis-imdb-distilbert](https://github.com/spoluan/sentiment-analysis-imdb-distilbert) | ![Stars](https://img.shields.io/github/stars/spoluan/sentiment-analysis-imdb-distilbert?style=social) | NLP |
-| [imdb-sentiment-analysis](https://github.com/spoluan/imdb-sentiment-analysis) | ![Stars](https://img.shields.io/github/stars/spoluan/imdb-sentiment-analysis?style=social) | NLP |
-| [traffic-signs-detection](https://github.com/spoluan/traffic-signs-detection) | ![Stars](https://img.shields.io/github/stars/spoluan/traffic-signs-detection?style=social) | YOLOv8 |
-| [cat-dogs-classification](https://github.com/spoluan/cat-dogs-classification) | ![Stars](https://img.shields.io/github/stars/spoluan/cat-dogs-classification?style=social) | Image Classification |
-| [flower-classification](https://github.com/spoluan/flower-classification) | ![Stars](https://img.shields.io/github/stars/spoluan/flower-classification?style=social) | Image Classification |
-| [food-101-classification](https://github.com/spoluan/food-101-classification) | ![Stars](https://img.shields.io/github/stars/spoluan/food-101-classification?style=social) | Transfer Learning |
-| [mnist-digits-recognition](https://github.com/spoluan/mnist-digits-recognition) | ![Stars](https://img.shields.io/github/stars/spoluan/mnist-digits-recognition?style=social) | CNN |
-| [fashion-mnist-classification](https://github.com/spoluan/fashion-mnist-classification) | ![Stars](https://img.shields.io/github/stars/spoluan/fashion-mnist-classification?style=social) | Image Classification |
-| [semantic-segmentation-oxford-IIIt-pet](https://github.com/spoluan/semantic-segmentation-oxford-IIIt-pet) | ![Stars](https://img.shields.io/github/stars/spoluan/semantic-segmentation-oxford-IIIt-pet?style=social) | Segmentation |
-| [flickr30k-image-captioning](https://github.com/spoluan/flickr30k-image-captioning) | ![Stars](https://img.shields.io/github/stars/spoluan/flickr30k-image-captioning?style=social) | Vision-Language |
-| [tmdb-5000-movie-recommendation-system](https://github.com/spoluan/tmdb-5000-movie-recommendation-system) | ![Stars](https://img.shields.io/github/stars/spoluan/tmdb-5000-movie-recommendation-system?style=social) | Recommendation |
-| [pub-med-200-medical-abstracts-classification](https://github.com/spoluan/pub-med-200-medical-abstracts-classification) | ![Stars](https://img.shields.io/github/stars/spoluan/pub-med-200-medical-abstracts-classification?style=social) | NLP/Classification |
-| [medium-pred-next-words](https://github.com/spoluan/medium-pred-next-words) | ![Stars](https://img.shields.io/github/stars/spoluan/medium-pred-next-words?style=social) | Language Model |
-| [us-insurance-regression](https://github.com/spoluan/us-insurance-regression) | ![Stars](https://img.shields.io/github/stars/spoluan/us-insurance-regression?style=social) | Regression |
-| [rpi-smart-wastebasket](https://github.com/spoluan/rpi-smart-wastebasket) | ![Stars](https://img.shields.io/github/stars/spoluan/rpi-smart-wastebasket?style=social) | IoT/ML |
+| [forex-market-prediction-eurusd](https://github.com/spoluan/forex-market-prediction-eurusd) | ![Stars](https://badgen.net/github/stars/spoluan/forex-market-prediction-eurusd?icon=github) | Time Series |
+| [federated-learning-mnistdigit](https://github.com/spoluan/federated-learning-mnistdigit) | ![Stars](https://badgen.net/github/stars/spoluan/federated-learning-mnistdigit?icon=github) | Privacy-Preserving ML |
+| [explainable-ai-pneumonia](https://github.com/spoluan/explainable-ai-pneumonia) | ![Stars](https://badgen.net/github/stars/spoluan/explainable-ai-pneumonia?icon=github) | Medical Imaging |
+| [reinforcement-learning](https://github.com/spoluan/reinforcement-learning) | ![Stars](https://badgen.net/github/stars/spoluan/reinforcement-learning?icon=github) | RL Algorithms |
+| [golf-ball-detection](https://github.com/spoluan/golf-ball-detection) | ![Stars](https://badgen.net/github/stars/spoluan/golf-ball-detection?icon=github) | Object Detection |
+| [sound-classification-ml](https://github.com/spoluan/sound-classification-ml) | ![Stars](https://badgen.net/github/stars/spoluan/sound-classification-ml?icon=github) | Audio Classification |
+| [scut-head-object-detection](https://github.com/spoluan/scut-head-object-detection) | ![Stars](https://badgen.net/github/stars/spoluan/scut-head-object-detection?icon=github) | Head Detection |
+| [experiment-chatbot](https://github.com/spoluan/experiment-chatbot) | ![Stars](https://badgen.net/github/stars/spoluan/experiment-chatbot?icon=github) | NLP/LLM |
+| [sentiment-analysis-imdb-distilbert](https://github.com/spoluan/sentiment-analysis-imdb-distilbert) | ![Stars](https://badgen.net/github/stars/spoluan/sentiment-analysis-imdb-distilbert?icon=github) | NLP |
+| [imdb-sentiment-analysis](https://github.com/spoluan/imdb-sentiment-analysis) | ![Stars](https://badgen.net/github/stars/spoluan/imdb-sentiment-analysis?icon=github) | NLP |
+| [traffic-signs-detection](https://github.com/spoluan/traffic-signs-detection) | ![Stars](https://badgen.net/github/stars/spoluan/traffic-signs-detection?icon=github) | YOLOv8 |
+| [cat-dogs-classification](https://github.com/spoluan/cat-dogs-classification) | ![Stars](https://badgen.net/github/stars/spoluan/cat-dogs-classification?icon=github) | Image Classification |
+| [flower-classification](https://github.com/spoluan/flower-classification) | ![Stars](https://badgen.net/github/stars/spoluan/flower-classification?icon=github) | Image Classification |
+| [food-101-classification](https://github.com/spoluan/food-101-classification) | ![Stars](https://badgen.net/github/stars/spoluan/food-101-classification?icon=github) | Transfer Learning |
+| [mnist-digits-recognition](https://github.com/spoluan/mnist-digits-recognition) | ![Stars](https://badgen.net/github/stars/spoluan/mnist-digits-recognition?icon=github) | CNN |
+| [fashion-mnist-classification](https://github.com/spoluan/fashion-mnist-classification) | ![Stars](https://badgen.net/github/stars/spoluan/fashion-mnist-classification?icon=github) | Image Classification |
+| [semantic-segmentation-oxford-IIIt-pet](https://github.com/spoluan/semantic-segmentation-oxford-IIIt-pet) | ![Stars](https://badgen.net/github/stars/spoluan/semantic-segmentation-oxford-IIIt-pet?icon=github) | Segmentation |
+| [flickr30k-image-captioning](https://github.com/spoluan/flickr30k-image-captioning) | ![Stars](https://badgen.net/github/stars/spoluan/flickr30k-image-captioning?icon=github) | Vision-Language |
+| [tmdb-5000-movie-recommendation-system](https://github.com/spoluan/tmdb-5000-movie-recommendation-system) | ![Stars](https://badgen.net/github/stars/spoluan/tmdb-5000-movie-recommendation-system?icon=github) | Recommendation |
+| [pub-med-200-medical-abstracts-classification](https://github.com/spoluan/pub-med-200-medical-abstracts-classification) | ![Stars](https://badgen.net/github/stars/spoluan/pub-med-200-medical-abstracts-classification?icon=github) | NLP/Classification |
+| [medium-pred-next-words](https://github.com/spoluan/medium-pred-next-words) | ![Stars](https://badgen.net/github/stars/spoluan/medium-pred-next-words?icon=github) | Language Model |
+| [us-insurance-regression](https://github.com/spoluan/us-insurance-regression) | ![Stars](https://badgen.net/github/stars/spoluan/us-insurance-regression?icon=github) | Regression |
+| [rpi-smart-wastebasket](https://github.com/spoluan/rpi-smart-wastebasket) | ![Stars](https://badgen.net/github/stars/spoluan/rpi-smart-wastebasket?icon=github) | IoT/ML |
 
 ---
 
